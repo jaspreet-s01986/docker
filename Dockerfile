@@ -11,3 +11,4 @@ RUN useradd roboshop
 USER roboshop
 WORKDIR /home/roboshop
 ARG ENV
+ENV MONGO
