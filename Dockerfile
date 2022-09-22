@@ -1,1 +1,2 @@
-FROM centos:
+FROM centos:7
+RUN 
