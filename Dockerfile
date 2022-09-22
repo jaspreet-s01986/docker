@@ -9,4 +9,4 @@ FROM centos:7
 
 RUN useradd roboshop
 USER roboshop
-WORKDIR 
+WORKDIR /home/roboshop
