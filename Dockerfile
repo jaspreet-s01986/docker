@@ -7,4 +7,4 @@ FROM centos:7
 # ENV MONGO='mongo-${PROJECT}.adjclasses.int'
 # ADD sample.txt /tmp
 
-RUN 
+RUN useradd roboshop
