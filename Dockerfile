@@ -8,4 +8,5 @@ FROM centos:7
 # ADD sample.txt /tmp
 
 RUN useradd roboshop
-USER 
+USER roboshop
+WORKDIR 
