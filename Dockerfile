@@ -5,4 +5,4 @@ CMD ["nginx", "-g", "daemon off;"]
 EXPOSE 80
 ENV PROJECT=roboshop
 ENV MONGO='mongo-${ENV}.adjclasses.int'
-ADD 
+ADD sample.txt /tmp
