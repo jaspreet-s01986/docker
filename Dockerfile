@@ -6,3 +6,5 @@ FROM centos:7
 # ENV PROJECT=roboshop
 # ENV MONGO='mongo-${PROJECT}.adjclasses.int'
 # ADD sample.txt /tmp
+
+RUN 
